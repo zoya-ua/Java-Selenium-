@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2962" started-at="2019-05-31T00:23:08Z" finished-at="2019-05-31T00:23:11Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2962" started-at="2019-05-31T00:23:08Z" finished-at="2019-05-31T00:23:11Z">
+      <class name="com.class02.Task1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.class02.Task1@5c7fa833]" name="setUp" is-config="true" duration-ms="2456" started-at="2019-05-31T00:23:08Z" finished-at="2019-05-31T00:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.class02.Task1@5c7fa833]" name="test" duration-ms="380" started-at="2019-05-31T00:23:11Z" finished-at="2019-05-31T00:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.class02.Task1@5c7fa833]" name="logout" is-config="true" duration-ms="103" started-at="2019-05-31T00:23:11Z" finished-at="2019-05-31T00:23:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- com.class02.Task1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
